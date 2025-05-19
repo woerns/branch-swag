@@ -1,8 +1,8 @@
 # Branch-SWAG
 
 This repository contains the implementation of Branch Stochastic Weight Averaging-Gaussian (Branch-SWAG) algorithm 
-and the experimental framework to produce the results in the paper "Toward Scalable Bayesian Deep Learning with Sampled 
-Branching Networks".
+and the experimental framework to produce the results presented in [_Towards Scalable Bayesian Deep Learning with Sampled 
+Branching Networks_](https://github.com/woerns/branch-swag/blob/main/branch-swag.pdf).
 
 Branch-SWAG builds on [SWAG](https://arxiv.org/abs/1902.02476) which has been shown to be a simple and effective way to 
 generate samples for Bayesian model averaging of neural networks and achieving state-of-the-art performance. Instead of 
